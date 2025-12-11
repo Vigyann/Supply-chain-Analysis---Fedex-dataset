@@ -26,7 +26,7 @@ The entire workflow is implemented in **Python** using popular data analysis and
 ### 1. Time & Delivery Analysis
 - Shipment distribution by **hour**, **day**, and **month**  
 - Identification of peak shipping periods  
-- On-time vs delayed delivery patterns  
+- On time vs delayed delivery patterns  
 - Average delivery durations  
 
 ### 2. Carrier Analysis
@@ -38,7 +38,7 @@ The entire workflow is implemented in **Python** using popular data analysis and
 
 ### 3. Geographical Analysis
 - Mapping shipment origins and destinations  
-- State-wise shipment density  
+- State wise shipment density  
 - Identifying regions with high delay frequency  
 - Interactive visualizations using **Folium**
 
